@@ -67,7 +67,10 @@ High-fidelity wireframes are much more detailed and refined. They evolve from th
  - **Usability testing:** The realistic nature of hi-fi wireframes makes them excellent for user testing. Users can interact with the interface as if it were a real product, leading to more accurate and valuable feedback.
  - **Final design iteration and handoff:** They provide a clear and precise blueprint for developers. The detailed visuals and interactive behaviors ensure that the development team understands exactly how the final product should look and function.
  - **Client and investor presentations:** When a client or investor needs a clear, polished vision of the final product, a high-fidelity wireframe (or prototype) can be used to showcase the design and get final sign-off before development begins.
-   
+
+Example of High-fidelty wireframe 
+[here](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&p=f&t=OesV5xAOcSE5cIOH-0)
+
 ## Wireframing Tools
 
 ## Benefits of Wireframing in Software Development
