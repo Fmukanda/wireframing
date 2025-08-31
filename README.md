@@ -54,7 +54,20 @@ Wireframing is a crucial step in the design process for the following key reason
      - **Example:** An arrow pointing to a button with the note: "Validates form and proceeds to Checkout Page."
        
 ## Types of Wireframes
-
+The fidelity of a wireframe refers to its level of detail and realism. The two most common types of fidelity in wireframe are low-fidelity and high-fidelity wireframes.
+#### Low-Fidelity (Lo-Fi) Wireframes
+Low-fidelity wireframes are the initial, rough sketches of the design. They are conceptual, fast to create, and intentionally lack detail. 
+##### When to use Low-fidelity wireframes 
+ - **Early-stage ideation**: Lo-fi wireframes are perfect for brainstorming sessions. Their speed of creation allows designers to quickly sketch out and test multiple ideas.
+ - **Initial client or stakeholder meetings:** They provide a simple, non-distracting way to communicate the "big picture" of a design. Since they don't look like a final product, feedback tends to be more focused on functionality and structure rather than visual details.
+ - **Rapid iteration:** Because they are so easy to change, low-fidelity wireframes are ideal for a rapid design process where you need to quickly refine concepts based on feedback.
+#### High-Fidelity (Hi-Fi) Wireframes
+High-fidelity wireframes are much more detailed and refined. They evolve from the approved lo-fi sketches and act as a precise blueprint for the final product. 
+##### When to use High-fidelity wireframes  
+ - **Usability testing:** The realistic nature of hi-fi wireframes makes them excellent for user testing. Users can interact with the interface as if it were a real product, leading to more accurate and valuable feedback.
+ - **Final design iteration and handoff:** They provide a clear and precise blueprint for developers. The detailed visuals and interactive behaviors ensure that the development team understands exactly how the final product should look and function.
+ - **Client and investor presentations:** When a client or investor needs a clear, polished vision of the final product, a high-fidelity wireframe (or prototype) can be used to showcase the design and get final sign-off before development begins.
+   
 ## Wireframing Tools
 
 ## Benefits of Wireframing in Software Development
