@@ -81,3 +81,18 @@ Figma's usefulness stems from its ability to bridge the gap between low-fidelity
 In summary, Figma is a all-in-one, collaborative nature makes it an incredibly efficient and versatile tool for the entire design process.
 
 ## Benefits of Wireframing in Software Development
+Wireframes are a fundamental tool that guides the design process and facilitates communication by serving as a visual blueprint for a website or application. The following are benefits of wireframing in Software Development.
+1. **Providing Structure and Direction**
+   For example, Low-fidelity wireframes, with simple boxes for images and placeholders for text, give teams a quick way to focus on layout and functionality instead of debating colors or fonts too early.This ensures that before time is spent on high-fidelity design, the team already agrees on the content hierarchy, navigation flow, and key interactions.
+2. **Reducing Misunderstandings**
+   Wireframes make abstract ideas concrete. For instance, a stakeholder might say, “I want the sign-up process to be simple.” A wireframe shows where the sign-up button sits, what fields appear, and how the flow looks, leaving less room for misinterpretation.
+2. **Facilitating Iteration and Feedback**
+   Low-fidelity wireframes enable fast feedback. Because they’re quick to sketch or build, teams can adjust layouts and flows without worrying about “wasting” design effort. Once validated, high-fidelity wireframes (with colors, branding, and interactivity) allow for usability testing—helping to refine final details before coding begins.
+4. **Bridging Designers and Developers**
+   Wireframes show developers what needs to be built without overwhelming them with unnecessary detail too early. For example, a high-fidelity wireframe in Figma might include component libraries and spacing guidelines, making it easier to translate design into code. Annotations in wireframes also clarify interactive behaviors (e.g., “dropdown expands on hover”), which helps avoid back-and-forth during development.
+5. **Encouraging Collaboration Across Roles**
+    In collaborative tools like Figma, wireframes become a living document where:
+     - Designers define structure and look.
+     - Product managers validate that business goals are met.
+     - Developers check technical feasibility.
+     - Stakeholders review user flow and provide approvals.
