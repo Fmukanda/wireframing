@@ -72,5 +72,12 @@ Example of High-fidelty wireframe
 [here](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&p=f&t=OesV5xAOcSE5cIOH-0)
 
 ## Wireframing Tools
+Wireframing tools are digital applications used to create and refine wireframes. They range from simple, low-fidelity sketch-style tools to complex, high-fidelity design platforms. Example of wireframes to include Figma, Adobe XD, Sketch, Axure, InVision,and Balsamiq.
+
+Figma is a cloud-based design and collaboration platform widely used for UI/UX design, wireframing, and prototyping. Since it’s browser-based (with desktop and mobile apps), it allows teams to work together in real-time, much like Google Docs.
+
+Figma's usefulness stems from its ability to bridge the gap between low-fidelity and high-fidelity design within a single platform. You can start with simple, rough wireframes and progressively add more detail without ever leaving the tool. This eliminates the need to switch between different applications for different design stages. It also streamlines the design-to-development handoff, as developers can access design specifications, assets, and even code snippets directly from the same Figma file. 
+
+In summary, Figma is a all-in-one, collaborative nature makes it an incredibly efficient and versatile tool for the entire design process.
 
 ## Benefits of Wireframing in Software Development
